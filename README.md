@@ -1,6 +1,6 @@
 # Terminal Pomodoro Timer
 
-<img src="./preview/preview.gif"/>
+<img src="./preview/preview.gif" width="400" height="400"/>
 
 Terminal Pomodoro Timer is a Python-based application designed for terminal users who wish to efficiently manage their time using the Pomodoro technique while also providing an option for meditation breaks.
 
